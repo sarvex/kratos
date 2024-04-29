@@ -6,7 +6,7 @@ require (
 	github.com/go-kratos/kratos/v2 v2.7.0
 	github.com/opensergo/opensergo-go 21a6d548466b
 	golang.org/x/net v0.11.0
-	google.golang.org/genproto/googleapis/api v0.0.0-20230629202037-9506855d4529
+	google.golang.org/genproto/googleapis/api 8cf5692501f6
 	google.golang.org/grpc v1.56.1
 	google.golang.org/protobuf v1.31.0
 )
