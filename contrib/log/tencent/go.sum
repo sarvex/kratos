@@ -30,6 +30,8 @@ github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/tencentcloud/tencentcloud-cls-sdk-go v1.0.2 h1:29QoDxUqlFWd0Pgyt4lqGTGMNvJGxVQ3lRx1haRaPnw=
 github.com/tencentcloud/tencentcloud-cls-sdk-go v1.0.2/go.mod h1:WU+0TXfVbSctEsUUf4KmIKnfr+tknbjcsnx/TrEIPH4=
+github.com/tencentcloud/tencentcloud-cls-sdk-go v1.0.9 h1:UbdTmcExJiyw7Lhmp8PWTK/c7fPszCujDhtpwZoUU8k=
+github.com/tencentcloud/tencentcloud-cls-sdk-go v1.0.9/go.mod h1:WU+0TXfVbSctEsUUf4KmIKnfr+tknbjcsnx/TrEIPH4=
 go.uber.org/atomic v1.9.0 h1:ECmE8Bn/WFTYwEW/bpKD3M8VtR/zQVbavAoalC1PYyE=
 go.uber.org/atomic v1.9.0/go.mod h1:fEN4uk6kAWBTFdckzkM89CLk9XfWZrxpCo0nPH17wJc=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 h1:E7g+9GITq07hpfrRu66IVDexMakfv52eLZ2CXBWiKr4=
